@@ -11,4 +11,4 @@ integration platforms.
 
 ## License
 
-Uses a BSD 3-clause license, please also see the included full `LICENSE` file.
+Uses a BSD 3-clause license, please also see the included full [LICENSE](LICENSE) file.
